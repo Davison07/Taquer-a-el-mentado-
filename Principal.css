@@ -1,0 +1,117 @@
+body {
+		background: #ffcc80;
+		font-family: Tahoma;
+		font-size: 11px;
+		width: 1200px;
+		margin: auto;
+}
+
+#logo {
+		background: url("C:\Users\D\Documents\Ejercicios D\TAQUE EL MENTADO.jpg") no-repeat right;
+
+		margin:0 auto;
+		background-size: 50%;
+		padding: 20em 0em 0em 0em;
+		text-transform: uppercase;
+		text-align: center;
+}
+
+#logo h1 a {
+	margin: 0em;
+	padding: 0em 0em 0em 0em;
+	letter-spacing: -.1em;
+	text-align: center;
+	text-decoration: overline;
+	text-shadow: 6px 6px 2px #5d4037;
+	font-size: 4em;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+
+#subtitulo {
+	padding: 0em;
+	margin-top: -1em;
+	font-size: 1.5em;
+	color: #BDF2FF	;
+}
+
+#menu li {
+	display: inline-block;
+}
+
+#menu a {
+	display: block;
+	float: left;
+	margin-right: 0.12em;
+	padding: 1em 1.5em;
+	background: #5d4037;
+	box-shadow: inset 0px -2px 0px 0px rgba(0, 0, 0, 0.25);
+	text-decoration: none;
+	text-shadow: 2px 2px 2px #ffcc80;
+	text-transform: uppercase;
+	font-size: 0.90em;
+	color: #FFFFFF;
+}
+
+#seccion{
+		width: 1150px;
+		padding: 20px 40px;
+		background: #FFF;
+		height: 500px;
+		border: black 2px solid;
+}
+
+#imagen{
+		margin-top: 2em;
+		width: 330px;
+		height: 200px;
+		text-align: center;
+		border: black 2px solid;
+}
+
+#subtitulo2{
+	font-family: Tahoma, Geneva, sans-serif;
+	text-align: center;
+	text-decoration: underline;
+	text-shadow: 2px 2px 2px #ffcc80;
+	font-size: 40px;
+	color: #5d4037;
+}
+
+#ladoderecho{
+	margin: -5px 20px 0px 0px;
+	float: right;
+	width: 65%;
+	text-align: justify;
+	color: #666;
+}
+
+#pie{
+		text-align: center;
+}
+
+p {
+		font-family: Tahoma;
+		font-size: 11pt;
+}
+
+h2 {
+	color: #5d4037;
+	text-shadow: 2px 2px 2px #ffcc80;
+}
+
+table, tr, td {
+	border: 1px solid ;
+	border-color: #5d4037;
+	width: 700px;
+	height: 20px;
+	text-align: center;
+	background: #ffcc80 ;
+	color: black;
+}
+
+table th {
+	background: #5d4037;
+	text-shadow: 2px 2px 2px #ffcc80;
+	color: #FFF;
+}
